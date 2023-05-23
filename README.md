@@ -31,3 +31,8 @@
 - Add Month column as Slicer and add some informative KPI.
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
+# Conclusion:
+-	Analyzed offices data to identify trends and insights using Power Query and DAX in Power BI.
+-	Created an interactive dashboard to track number of functioning offices and their growth periodically.
+-	Discovered that Functioning offices are decreasing in greater numbers after 2020 due to digitalization and max existing offices.
+-	Provided visualizations and actionable insights to the organizations to address the issue.
