@@ -1,5 +1,5 @@
 # Analysis-on-state-of-commercial-banks-in-India
-- Interact with dashboard (https://www.novypro.com/project/analysis-of-state-of-commercial-banks-in-india)
+- Interact with dashboard (https://www.novypro.com/project/analysis-of-state-of-commercial-banks-in-india-power-bi)
 - This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
 
 - Analysis on state of commercial banks in India aim to provide insight into how best to manage functioning offices and reach business goals. The objective is to know how is the growth of the functioning offices of commercial banks in india. Created several reports with information on following factors which will help the organization determine what action they will need to take to make decisions.
